@@ -1,6 +1,10 @@
 # FB-Hack
 Facebook Account Hack
 
+$pkg update 
+
+$ pkg upgrade 
+
 $pkg install python 
 
 $pkg install python2
