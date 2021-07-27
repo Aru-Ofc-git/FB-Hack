@@ -17,7 +17,7 @@ yellow = '\n\n\x1b[1;93m'
 os.system('clear')
 fuck = red + " \xe2\x9a\xa0\xef\xb8\x8f Warning : We are not responsible if someone misuses it."
 notice = yellow + '                \xe2\x9c\xaaFacebook Account Hacking Tools\xe2\x9c\xaa                      '
-print ' \n \x1b[92m    8888      88888      88       88 \n   88     88   88    88   88       88 \n   88     88   88    88   88       88 \n   888888888   8888       88       88 \n   88     88   88  88        8888888 \n   88     88   88    88        8888 '
+print ' \n \x1b[92m    8888      88888      88       88 \n   88     88   88    88   88       88 \n   88     88   88    88   88       88 \n   888888888   8888       88       88 \n   88     88   88  88       88888888 \n   88     88   88    88       88888 '
 print ''
 print ''
 print ' Noakhailla Mal.We Can Make System, We Can Fuck System '
@@ -46,7 +46,7 @@ print ''
 print ''
 print ''
 print ''
-username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your FB ID or username:')
+username = raw_input(cyan + ' [\xe2\x9c\x93] Enter your Target FB ID or username:')
 print ''
 print ''
 print ("Your Target " + username) 
